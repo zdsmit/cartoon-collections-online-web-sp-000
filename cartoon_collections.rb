@@ -29,5 +29,5 @@ def find_the_cheese(ingredients)
     else
       nil
     end
-  end  
+  end
 end
